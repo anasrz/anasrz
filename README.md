@@ -1,10 +1,10 @@
-### Hi Im Anas or Prise [codeSTACKr][website] ðŸ‘‹ 
+### Hi Im Anas or Prise ‹ 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 ## I'm a Node Js Developer !!
 
-- ðŸ”­ I Started Leraning Node JS On 07/06/2021!
+- ☃️ ­ I Started Leraning Node JS On 07/06/2021!
 - ðŸ¥… I Have Bot On Discord
 - âš¡ Im Developer In EazyBot 
 
